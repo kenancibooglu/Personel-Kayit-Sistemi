@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace SQL_Personel_Kayit
 {
-    public partial class Form1 : Form
+    public partial class FrmGrafikler : Form
     {
-        public Form1()
+        public FrmGrafikler()
         {
             InitializeComponent();
         }

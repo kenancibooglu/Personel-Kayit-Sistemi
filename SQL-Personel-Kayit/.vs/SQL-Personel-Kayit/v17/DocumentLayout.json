@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\90539\\Desktop\\GitHub\\C# Projects\\Personel-Kayit-Sistemi\\SQL-Personel-Kayit\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{46D91C3D-7684-4F41-A454-171CFBBEF0E2}|SQL-Personel-Kayit\\SQL-Personel-Kayit.csproj|c:\\users\\90539\\desktop\\github\\c# projects\\personel-kayit-sistemi\\sql-personel-kayit\\sql-personel-kayit\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{46D91C3D-7684-4F41-A454-171CFBBEF0E2}|SQL-Personel-Kayit\\SQL-Personel-Kayit.csproj|solutionrelative:sql-personel-kayit\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{46D91C3D-7684-4F41-A454-171CFBBEF0E2}|SQL-Personel-Kayit\\SQL-Personel-Kayit.csproj|c:\\users\\90539\\desktop\\github\\c# projects\\personel-kayit-sistemi\\sql-personel-kayit\\sql-personel-kayit\\frmanaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{46D91C3D-7684-4F41-A454-171CFBBEF0E2}|SQL-Personel-Kayit\\SQL-Personel-Kayit.csproj|solutionrelative:sql-personel-kayit\\frmanaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46D91C3D-7684-4F41-A454-171CFBBEF0E2}|SQL-Personel-Kayit\\SQL-Personel-Kayit.csproj|c:\\users\\90539\\desktop\\github\\c# projects\\personel-kayit-sistemi\\sql-personel-kayit\\sql-personel-kayit\\frmanaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46D91C3D-7684-4F41-A454-171CFBBEF0E2}|SQL-Personel-Kayit\\SQL-Personel-Kayit.csproj|solutionrelative:sql-personel-kayit\\frmanaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46D91C3D-7684-4F41-A454-171CFBBEF0E2}|SQL-Personel-Kayit\\SQL-Personel-Kayit.csproj|c:\\users\\90539\\desktop\\github\\c# projects\\personel-kayit-sistemi\\sql-personel-kayit\\sql-personel-kayit\\frmistatistik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{46D91C3D-7684-4F41-A454-171CFBBEF0E2}|SQL-Personel-Kayit\\SQL-Personel-Kayit.csproj|solutionrelative:sql-personel-kayit\\frmistatistik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46D91C3D-7684-4F41-A454-171CFBBEF0E2}|SQL-Personel-Kayit\\SQL-Personel-Kayit.csproj|c:\\users\\90539\\desktop\\github\\c# projects\\personel-kayit-sistemi\\sql-personel-kayit\\sql-personel-kayit\\frmgrafikler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{46D91C3D-7684-4F41-A454-171CFBBEF0E2}|SQL-Personel-Kayit\\SQL-Personel-Kayit.csproj|solutionrelative:sql-personel-kayit\\frmgrafikler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46D91C3D-7684-4F41-A454-171CFBBEF0E2}|SQL-Personel-Kayit\\SQL-Personel-Kayit.csproj|c:\\users\\90539\\desktop\\github\\c# projects\\personel-kayit-sistemi\\sql-personel-kayit\\sql-personel-kayit\\frmgiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{46D91C3D-7684-4F41-A454-171CFBBEF0E2}|SQL-Personel-Kayit\\SQL-Personel-Kayit.csproj|solutionrelative:sql-personel-kayit\\frmgiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,14 +38,63 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmAnaForm.cs",
+              "DocumentMoniker": "C:\\Users\\90539\\Desktop\\GitHub\\C# Projects\\Personel-Kayit-Sistemi\\SQL-Personel-Kayit\\SQL-Personel-Kayit\\FrmAnaForm.cs",
+              "RelativeDocumentMoniker": "SQL-Personel-Kayit\\FrmAnaForm.cs",
+              "ToolTip": "C:\\Users\\90539\\Desktop\\GitHub\\C# Projects\\Personel-Kayit-Sistemi\\SQL-Personel-Kayit\\SQL-Personel-Kayit\\FrmAnaForm.cs",
+              "RelativeToolTip": "SQL-Personel-Kayit\\FrmAnaForm.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAcwBgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T19:00:12.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\90539\\Desktop\\GitHub\\C# Projects\\Personel-Kayit-Sistemi\\SQL-Personel-Kayit\\SQL-Personel-Kayit\\Form1.cs",
-              "RelativeDocumentMoniker": "SQL-Personel-Kayit\\Form1.cs",
-              "ToolTip": "C:\\Users\\90539\\Desktop\\GitHub\\C# Projects\\Personel-Kayit-Sistemi\\SQL-Personel-Kayit\\SQL-Personel-Kayit\\Form1.cs [Design]",
-              "RelativeToolTip": "SQL-Personel-Kayit\\Form1.cs [Design]",
+              "Title": "FrmAnaForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\90539\\Desktop\\GitHub\\C# Projects\\Personel-Kayit-Sistemi\\SQL-Personel-Kayit\\SQL-Personel-Kayit\\FrmAnaForm.cs",
+              "RelativeDocumentMoniker": "SQL-Personel-Kayit\\FrmAnaForm.cs",
+              "ToolTip": "C:\\Users\\90539\\Desktop\\GitHub\\C# Projects\\Personel-Kayit-Sistemi\\SQL-Personel-Kayit\\SQL-Personel-Kayit\\FrmAnaForm.cs [Design]",
+              "RelativeToolTip": "SQL-Personel-Kayit\\FrmAnaForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-08T18:46:57.283Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmIstatistik.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\90539\\Desktop\\GitHub\\C# Projects\\Personel-Kayit-Sistemi\\SQL-Personel-Kayit\\SQL-Personel-Kayit\\FrmIstatistik.cs",
+              "RelativeDocumentMoniker": "SQL-Personel-Kayit\\FrmIstatistik.cs",
+              "ToolTip": "C:\\Users\\90539\\Desktop\\GitHub\\C# Projects\\Personel-Kayit-Sistemi\\SQL-Personel-Kayit\\SQL-Personel-Kayit\\FrmIstatistik.cs [Design]",
+              "RelativeToolTip": "SQL-Personel-Kayit\\FrmIstatistik.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T18:51:54.788Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmGrafikler.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\90539\\Desktop\\GitHub\\C# Projects\\Personel-Kayit-Sistemi\\SQL-Personel-Kayit\\SQL-Personel-Kayit\\FrmGrafikler.cs",
+              "RelativeDocumentMoniker": "SQL-Personel-Kayit\\FrmGrafikler.cs",
+              "ToolTip": "C:\\Users\\90539\\Desktop\\GitHub\\C# Projects\\Personel-Kayit-Sistemi\\SQL-Personel-Kayit\\SQL-Personel-Kayit\\FrmGrafikler.cs [Design]",
+              "RelativeToolTip": "SQL-Personel-Kayit\\FrmGrafikler.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T18:51:44.295Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmGiris.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\90539\\Desktop\\GitHub\\C# Projects\\Personel-Kayit-Sistemi\\SQL-Personel-Kayit\\SQL-Personel-Kayit\\FrmGiris.cs",
+              "RelativeDocumentMoniker": "SQL-Personel-Kayit\\FrmGiris.cs",
+              "ToolTip": "C:\\Users\\90539\\Desktop\\GitHub\\C# Projects\\Personel-Kayit-Sistemi\\SQL-Personel-Kayit\\SQL-Personel-Kayit\\FrmGiris.cs [Design]",
+              "RelativeToolTip": "SQL-Personel-Kayit\\FrmGiris.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T18:51:31.973Z",
               "EditorCaption": " [Design]"
             }
           ]
