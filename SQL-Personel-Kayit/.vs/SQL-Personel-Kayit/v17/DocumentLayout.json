@@ -1,0 +1,40 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\90539\\Desktop\\GitHub\\C# Projects\\Personel-Kayit-Sistemi\\SQL-Personel-Kayit\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{46D91C3D-7684-4F41-A454-171CFBBEF0E2}|SQL-Personel-Kayit\\SQL-Personel-Kayit.csproj|c:\\users\\90539\\desktop\\github\\c# projects\\personel-kayit-sistemi\\sql-personel-kayit\\sql-personel-kayit\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{46D91C3D-7684-4F41-A454-171CFBBEF0E2}|SQL-Personel-Kayit\\SQL-Personel-Kayit.csproj|solutionrelative:sql-personel-kayit\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\90539\\Desktop\\GitHub\\C# Projects\\Personel-Kayit-Sistemi\\SQL-Personel-Kayit\\SQL-Personel-Kayit\\Form1.cs",
+              "RelativeDocumentMoniker": "SQL-Personel-Kayit\\Form1.cs",
+              "ToolTip": "C:\\Users\\90539\\Desktop\\GitHub\\C# Projects\\Personel-Kayit-Sistemi\\SQL-Personel-Kayit\\SQL-Personel-Kayit\\Form1.cs [Design]",
+              "RelativeToolTip": "SQL-Personel-Kayit\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T18:46:57.283Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
